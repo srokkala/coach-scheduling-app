@@ -287,3 +287,13 @@ For testing purposes, the database is seeded with sample data:
 - 4 availability slots (2 for each coach)
 
 This allows for immediate testing of the application's functionality without needing to create users manually. Use the UserSwitcher component to switch between different users and test the application from both coach and student perspectives.
+
+
+<img width="1512" alt="Screenshot 2025-03-25 at 9 57 33 PM" src="https://github.com/user-attachments/assets/170c0746-fb24-4786-b149-1f9997d7bcce" />
+<img width="1510" alt="Screenshot 2025-03-10 at 2 48 46 AM" src="https://github.com/user-attachments/assets/2103186c-61ae-44a5-919a-1b08ff4801d6" />
+<img width="1512" alt="Screenshot 2025-03-10 at 2 54 42 AM" src="https://github.com/user-attachments/assets/38854c08-b382-4ee4-bc6c-0b61a125acb6" />
+<img width="1512" alt="Screenshot 2025-03-25 at 9 55 10 PM" src="https://github.com/user-attachments/assets/75d8a6a0-de90-46c9-9c8b-99ebec6ed029" />
+<img width="1510" alt="Screenshot 2025-03-25 at 9 57 23 PM" src="https://github.com/user-attachments/assets/87db72eb-8837-4e8a-b26c-dd7447b0580e" />
+<img width="1512" alt="Screenshot 2025-03-25 at 9 57 47 PM" src="https://github.com/user-attachments/assets/59bf0ff0-7c1e-4343-b4b0-0c1f719211a0" />
+<img width="1508" alt="Screenshot 2025-03-25 at 9 57 55 PM" src="https://github.com/user-attachments/assets/5f0859ee-2f8f-4dd9-9f59-470b182c8132" />
+
